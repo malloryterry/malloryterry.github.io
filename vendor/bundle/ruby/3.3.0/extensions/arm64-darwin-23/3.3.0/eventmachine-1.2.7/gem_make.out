@@ -1,0 +1,19 @@
+current directory: /Users/malloryterry/Dropbox/malloryterry.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/malloryterry/Dropbox/malloryterry.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241101-39778-d26i4r sitelibdir\=./.gem.20241101-39778-d26i4r clean
+
+current directory: /Users/malloryterry/Dropbox/malloryterry.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241101-39778-d26i4r sitelibdir\=./.gem.20241101-39778-d26i4r
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/malloryterry/Dropbox/malloryterry.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241101-39778-d26i4r sitelibdir\=./.gem.20241101-39778-d26i4r install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20241101-39778-d26i4r
+
+current directory: /Users/malloryterry/Dropbox/malloryterry.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241101-39778-d26i4r sitelibdir\=./.gem.20241101-39778-d26i4r clean
