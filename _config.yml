@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mallory Terry"
+title                    : "Mallory E. Terry"
 title_separator          : "-"
 name                     : &name "Mallory Terry"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "malloryterry/malloryterry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   name             : "Mallory Terry"
   pronouns         : "she/ her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate studying visual attention and action"
   location         : "Guelph, Ontario, Canada"
   employer         : "University of Guelph"
   uri              : # URL "https://drivelab.uoguelph.ca/main-page-research/visual-attention-lab/"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
